@@ -30,7 +30,7 @@ namespace Array_Dengan_Input
             }
             else
             {
-                MessageBox.Show("Array Sudah Mencapai Batas", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Batas Array Sudah Mencapai Maksimal", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
             tBNama.Text = "";
         }
